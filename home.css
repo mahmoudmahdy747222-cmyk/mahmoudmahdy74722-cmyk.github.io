@@ -1,7 +1,7 @@
 body { 
     margin:0%;
     color:aliceblue;
-    background-image: url("https://mahmoudmahdy74722-cmyk.github.io/main/images/robot.jpg");
+    background-image: url(../home/images/robot.jpg");
     background-repeat: no-repeat;
     background-attachment:fixed ;
     /* background-size:cover; */
